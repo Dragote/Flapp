@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="globe">Globe</string>
+    <string name="title">Choose region</string>
+    <string name="start_button">Start</string>
+    <string name="next_button">Next</string>
+    <string name="close_button">Go Back</string>
+    <string name="slider_text">Rounds: %1$s</string>
+    <string name="result_title">RESULT</string>
+    <string name="result_text">%1$s/%2$s</string>
+    <string name="alert_confirm">Confirm</string>
+    <string name="alert_dismiss">Dismiss</string>
+    <string name="alert_title">Are you sure?</string>
+</resources>

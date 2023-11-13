@@ -1,0 +1,114 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="1200"
+    android:viewportHeight="600"
+    android:width="1200dp"
+    android:height="600dp">
+    <path
+        android:pathData="M0 0H1200V600H0V0Z"
+        android:fillColor="#00247D" />
+    <path
+        android:pathData="M0 0L600 300M0 300L600 0"
+        android:fillColor="#000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="60" />
+    <group>
+        <clip-path
+            android:pathData="M0 0V150H700V300H600zM0 300V400H300V0H600z" />
+        <path
+            android:pathData="M0 0L600 300M0 300L600 0"
+            android:fillColor="#000000"
+            android:strokeColor="#CF142B"
+            android:strokeWidth="40" />
+    </group>
+    <path
+        android:pathData="M300 0V400M0 150H700"
+        android:fillColor="#000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="100" />
+    <path
+        android:pathData="M300 0V400M0 150H700"
+        android:fillColor="#000000"
+        android:strokeColor="#CF142B"
+        android:strokeWidth="60" />
+    <path
+        android:pathData="M0 300H600V0H1200V600H0z"
+        android:fillColor="#5B97B1" />
+    <group
+        android:translateX="645.3396"
+        android:translateY="540.9936">
+        <path
+            android:pathData="M0 -50.0808L29.4368 40.5162 -47.6297 -15.4758H47.6297L-29.4368 40.5172z"
+            android:fillColor="#FFCE00" />
+    </group>
+    <group
+        android:translateX="788.0256"
+        android:translateY="504.516">
+        <group
+            android:rotation="36">
+            <path
+                android:pathData="M0 -50.0808L29.4368 40.5162 -47.6297 -15.4758H47.6297L-29.4368 40.5172z"
+                android:fillColor="#FFCE00" />
+        </group>
+    </group>
+    <group
+        android:translateX="788.0256"
+        android:translateY="382.5324">
+        <group
+            android:rotation="36">
+            <path
+                android:pathData="M0 -50.0808L29.4368 40.5162 -47.6297 -15.4758H47.6297L-29.4368 40.5172z"
+                android:fillColor="#FFCE00" />
+        </group>
+    </group>
+    <group
+        android:translateX="914.0304"
+        android:translateY="473.6844">
+        <group
+            android:rotation="36">
+            <path
+                android:pathData="M0 -50.0808L29.4368 40.5162 -47.6297 -15.4758H47.6297L-29.4368 40.5172z"
+                android:fillColor="#FFCE00" />
+        </group>
+    </group>
+    <group
+        android:translateX="914.0304"
+        android:translateY="208.2708">
+        <group
+            android:rotation="36">
+            <path
+                android:pathData="M0 -50.0808L29.4368 40.5162 -47.6297 -15.4758H47.6297L-29.4368 40.5172z"
+                android:fillColor="#FFCE00" />
+        </group>
+    </group>
+    <group
+        android:translateX="996.4416"
+        android:translateY="390.0456">
+        <path
+            android:pathData="M0 -50.0808L29.4368 40.5162 -47.6297 -15.4758H47.6297L-29.4368 40.5172z"
+            android:fillColor="#FFCE00" />
+    </group>
+    <group
+        android:translateX="1019.928"
+        android:translateY="172.0776">
+        <group
+            android:rotation="36">
+            <path
+                android:pathData="M0 -50.0808L29.4368 40.5162 -47.6297 -15.4758H47.6297L-29.4368 40.5172z"
+                android:fillColor="#FFCE00" />
+        </group>
+    </group>
+    <group
+        android:translateX="1102.836"
+        android:translateY="321.5544">
+        <path
+            android:pathData="M0 -50.0808L29.4368 40.5162 -47.6297 -15.4758H47.6297L-29.4368 40.5172z"
+            android:fillColor="#FFCE00" />
+    </group>
+    <group
+        android:translateX="1102.836"
+        android:translateY="87.486">
+        <path
+            android:pathData="M0 -50.0808L29.4368 40.5162 -47.6297 -15.4758H47.6297L-29.4368 40.5172z"
+            android:fillColor="#FFCE00" />
+    </group>
+</vector>

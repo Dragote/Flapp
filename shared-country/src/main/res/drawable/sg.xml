@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="4320"
+    android:viewportHeight="2880"
+    android:width="4320dp"
+    android:height="2880dp">
+    <path
+        android:pathData="M0 0H4320V1440H0V0Z"
+        android:fillColor="#ED2939" />
+    <path
+        android:pathData="M0 1440H4320V2880H0V1440Z"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M1481.678 720A541.5 541.5 0 1 1 398.67798 720A541.5 541.5 0 1 1 1481.678 720z"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M1651.835 720A511.73499 511.73499 0 1 1 628.36499 720A511.73499 511.73499 0 1 1 1651.835 720z"
+        android:fillColor="#ED2939" />
+    <path
+        android:pathData="M1007.1951 733.06439L933.63466 676.63425L860.09279 733.09117L888.40587 642.09687L814.61147 586.0053L905.6704 586.1981L933.6049 495.07467L961.56934 586.18798L1052.6282 585.96246L978.8522 642.0808L1007.1951 733.06439z"
+        android:fillColor="#FFFFFF" />
+    <group
+        android:translateX="577.1885">
+        <path
+            android:pathData="M1007.1951 733.06439L933.63466 676.63425L860.09279 733.09117L888.40587 642.09687L814.61147 586.0053L905.6704 586.1981L933.6049 495.07467L961.56934 586.18798L1052.6282 585.96246L978.8522 642.0808L1007.1951 733.06439z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:translateX="288.8885"
+        android:translateY="-214.2112">
+        <path
+            android:pathData="M1007.1951 733.06439L933.63466 676.63425L860.09279 733.09117L888.40587 642.09687L814.61147 586.0053L905.6704 586.1981L933.6049 495.07467L961.56934 586.18798L1052.6282 585.96246L978.8522 642.0808L1007.1951 733.06439z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:translateX="107.9995"
+        android:translateY="342.7488">
+        <path
+            android:pathData="M1007.1951 733.06439L933.63466 676.63425L860.09279 733.09117L888.40587 642.09687L814.61147 586.0053L905.6704 586.1981L933.6049 495.07467L961.56934 586.18798L1052.6282 585.96246L978.8522 642.0808L1007.1951 733.06439z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:translateX="469.1885"
+        android:translateY="342.7488">
+        <path
+            android:pathData="M1007.1951 733.06439L933.63466 676.63425L860.09279 733.09117L888.40587 642.09687L814.61147 586.0053L905.6704 586.1981L933.6049 495.07467L961.56934 586.18798L1052.6282 585.96246L978.8522 642.0808L1007.1951 733.06439z"
+            android:fillColor="#FFFFFF" />
+    </group>
+</vector>

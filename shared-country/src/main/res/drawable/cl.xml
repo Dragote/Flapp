@@ -1,0 +1,123 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="24"
+    android:viewportHeight="16"
+    android:width="24dp"
+    android:height="16dp">
+    <group
+        android:translateX="4"
+        android:translateY="4">
+        <path
+            android:pathData="M20 12H-4V-4H20z"
+            android:fillColor="#D52B1E" />
+        <path
+            android:pathData="M4 4H20V-4H-4z"
+            android:fillColor="#FFFFFF" />
+        <path
+            android:pathData="M4 4H-4V-4H4z"
+            android:fillColor="#0039A6" />
+        <group
+            android:rotation="18"
+            android:pivotY="-2">
+            <path
+                android:pathData="M0 -2V0H1z"
+                android:fillColor="#FFFFFF" />
+        </group>
+        <group
+            android:rotation="-0"
+            android:scaleX="-1">
+            <group
+                android:rotation="18"
+                android:pivotY="-2">
+                <path
+                    android:pathData="M0 -2V0H1z"
+                    android:fillColor="#FFFFFF" />
+            </group>
+        </group>
+        <group
+            android:rotation="72">
+            <group
+                android:rotation="18"
+                android:pivotY="-2">
+                <path
+                    android:pathData="M0 -2V0H1z"
+                    android:fillColor="#FFFFFF" />
+            </group>
+            <group
+                android:rotation="-0"
+                android:scaleX="-1">
+                <group
+                    android:rotation="18"
+                    android:pivotY="-2">
+                    <path
+                        android:pathData="M0 -2V0H1z"
+                        android:fillColor="#FFFFFF" />
+                </group>
+            </group>
+        </group>
+        <group
+            android:rotation="-72">
+            <group
+                android:rotation="18"
+                android:pivotY="-2">
+                <path
+                    android:pathData="M0 -2V0H1z"
+                    android:fillColor="#FFFFFF" />
+            </group>
+            <group
+                android:rotation="-0"
+                android:scaleX="-1">
+                <group
+                    android:rotation="18"
+                    android:pivotY="-2">
+                    <path
+                        android:pathData="M0 -2V0H1z"
+                        android:fillColor="#FFFFFF" />
+                </group>
+            </group>
+        </group>
+        <group
+            android:rotation="-36"
+            android:scaleX="-1"
+            android:scaleY="-1">
+            <group
+                android:rotation="18"
+                android:pivotY="-2">
+                <path
+                    android:pathData="M0 -2V0H1z"
+                    android:fillColor="#FFFFFF" />
+            </group>
+            <group
+                android:rotation="-0"
+                android:scaleX="-1">
+                <group
+                    android:rotation="18"
+                    android:pivotY="-2">
+                    <path
+                        android:pathData="M0 -2V0H1z"
+                        android:fillColor="#FFFFFF" />
+                </group>
+            </group>
+            <group
+                android:rotation="72">
+                <group
+                    android:rotation="18"
+                    android:pivotY="-2">
+                    <path
+                        android:pathData="M0 -2V0H1z"
+                        android:fillColor="#FFFFFF" />
+                </group>
+                <group
+                    android:rotation="-0"
+                    android:scaleX="-1">
+                    <group
+                        android:rotation="18"
+                        android:pivotY="-2">
+                        <path
+                            android:pathData="M0 -2V0H1z"
+                            android:fillColor="#FFFFFF" />
+                    </group>
+                </group>
+            </group>
+        </group>
+    </group>
+</vector>

@@ -1,0 +1,139 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="1400"
+    android:viewportHeight="700"
+    android:width="1400dp"
+    android:height="700dp">
+    <path
+        android:pathData="M0 0H1400V700H0V0Z"
+        android:fillColor="#006600" />
+    <path
+        android:pathData="M0 0H1400V500H0V0Z"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M0 0H1400V200H0V0Z"
+        android:fillColor="#CC0000" />
+    <path
+        android:pathData="M672.0 340.7a12.5 12.5 0 0 1 23.3 5.9v50h9.4v-50a12.5 12.5 0 0 1 23.3 -5.9a29.5 29.5 0 1 0 -56 0"
+        android:fillColor="#F8C300" />
+    <path
+        android:pathData="M678.7 327.65a20 20 0 0 1 21.3 9.55a20 20 0 0 1 21.3 -9.55a21.5 21.5 0 0 0 -42.6 0"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M695.3 376.627a38 38 0 0 1 -63.845 24.316a39.5 39.5 0 0 1 -59.734 17.467c3.6496 36.426 58.252 28.989 62.32 -6.4288 17.154 30.115 54.873 21.49 65.91 -15.4z"
+        android:fillColor="#F8C300" />
+    <group
+        android:rotation="-0"
+        android:scaleX="-1"
+        android:translateX="1400">
+        <path
+            android:pathData="M695.3 376.627a38 38 0 0 1 -63.845 24.316a39.5 39.5 0 0 1 -59.734 17.467c3.6496 36.426 58.252 28.989 62.32 -6.4288 17.154 30.115 54.873 21.49 65.91 -15.4z"
+            android:fillColor="#F8C300" />
+    </group>
+    <path
+        android:pathData="M658.84 441.31c-7.6181 16.446 -22.845 19.271 -36.164 5.9953 0 0 5.3539 -3.7831 11.086 -4.826 -1.0748 -4.5744 1.1291 -10.902 4.2354 -14.324 3.2575 2.2264 7.8036 6.6886 8.9598 11.874 8.0291 -1.0394 11.883 1.2815 11.883 1.2815z"
+        android:fillColor="#F8C300" />
+    <group
+        android:rotation="9.37"
+        android:translateX="140.2385"
+        android:translateY="-103.2392">
+        <path
+            android:pathData="M658.84 441.31c-7.6181 16.446 -22.845 19.271 -36.164 5.9953 0 0 5.3539 -3.7831 11.086 -4.826 -1.0748 -4.5744 1.1291 -10.902 4.2354 -14.324 3.2575 2.2264 7.8036 6.6886 8.9598 11.874 8.0291 -1.0394 11.883 1.2815 11.883 1.2815z"
+            android:fillColor="#F8C300" />
+    </group>
+    <group
+        android:rotation="18.74"
+        android:translateX="295.4141"
+        android:translateY="-182.2689">
+        <path
+            android:pathData="M658.84 441.31c-7.6181 16.446 -22.845 19.271 -36.164 5.9953 0 0 5.3539 -3.7831 11.086 -4.826 -1.0748 -4.5744 1.1291 -10.902 4.2354 -14.324 3.2575 2.2264 7.8036 6.6886 8.9598 11.874 8.0291 -1.0394 11.883 1.2815 11.883 1.2815z"
+            android:fillColor="#F8C300" />
+    </group>
+    <path
+        android:pathData="M603 478a340 340 0 0 1 194 0"
+        android:strokeColor="#F8C300"
+        android:strokeWidth="16" />
+    <group
+        android:translateX="700"
+        android:translateY="380">
+        <group
+            android:translateY="-140">
+            <group
+                android:scaleX="0.000048669"
+                android:scaleY="0.000048669">
+                <path
+                    android:pathData="M0 -513674L301930 415571 -488533 -158734 488533 -158734 -301930 415571Z"
+                    android:fillColor="#F8C300" />
+            </group>
+        </group>
+        <group
+            android:translateX="-70"
+            android:translateY="-121.2436">
+            <group
+                android:scaleX="0.000048669"
+                android:scaleY="0.000048669">
+                <path
+                    android:pathData="M0 -513674L301930 415571 -488533 -158734 488533 -158734 -301930 415571Z"
+                    android:fillColor="#F8C300" />
+            </group>
+        </group>
+        <group
+            android:translateX="-121.2436"
+            android:translateY="-70">
+            <group
+                android:scaleX="0.000048669"
+                android:scaleY="0.000048669">
+                <path
+                    android:pathData="M0 -513674L301930 415571 -488533 -158734 488533 -158734 -301930 415571Z"
+                    android:fillColor="#F8C300" />
+            </group>
+        </group>
+        <group
+            android:translateX="-140"
+            android:translateY="-0.000000000000008572528">
+            <group
+                android:scaleX="0.000048669"
+                android:scaleY="0.000048669">
+                <path
+                    android:pathData="M0 -513674L301930 415571 -488533 -158734 488533 -158734 -301930 415571Z"
+                    android:fillColor="#F8C300" />
+            </group>
+        </group>
+        <group
+            android:rotation="-0"
+            android:scaleX="-1">
+            <group
+                android:translateX="-70"
+                android:translateY="-121.2436">
+                <group
+                    android:scaleX="0.000048669"
+                    android:scaleY="0.000048669">
+                    <path
+                        android:pathData="M0 -513674L301930 415571 -488533 -158734 488533 -158734 -301930 415571Z"
+                        android:fillColor="#F8C300" />
+                </group>
+            </group>
+            <group
+                android:translateX="-121.2436"
+                android:translateY="-70">
+                <group
+                    android:scaleX="0.000048669"
+                    android:scaleY="0.000048669">
+                    <path
+                        android:pathData="M0 -513674L301930 415571 -488533 -158734 488533 -158734 -301930 415571Z"
+                        android:fillColor="#F8C300" />
+                </group>
+            </group>
+            <group
+                android:translateX="-140"
+                android:translateY="-0.000000000000008572528">
+                <group
+                    android:scaleX="0.000048669"
+                    android:scaleY="0.000048669">
+                    <path
+                        android:pathData="M0 -513674L301930 415571 -488533 -158734 488533 -158734 -301930 415571Z"
+                        android:fillColor="#F8C300" />
+                </group>
+            </group>
+        </group>
+    </group>
+</vector>

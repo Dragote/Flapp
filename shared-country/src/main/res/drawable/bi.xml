@@ -1,0 +1,856 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="500"
+    android:viewportHeight="300"
+    android:width="500dp"
+    android:height="300dp">
+    <path
+        android:pathData="M0 0H500L0 300H500z"
+        android:fillColor="#CE1126" />
+    <path
+        android:pathData="M0 0V300L500 0V300z"
+        android:fillColor="#1EB53A" />
+    <path
+        android:pathData="M0 0L500 300M500 0L0 300"
+        android:fillColor="#000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="40" />
+    <path
+        android:pathData="M335 150A85 85 0 0 1 165 150A85 85 0 0 1 335 150Z"
+        android:fillColor="#FFFFFF" />
+    <group
+        android:translateX="250"
+        android:translateY="106">
+        <group
+            android:rotation="30"
+            android:pivotY="-20">
+            <path
+                android:pathData="M0 -20V0H20"
+                android:fillColor="#1EB53A" />
+        </group>
+        <group
+            android:rotation="-0"
+            android:scaleX="-1">
+            <group
+                android:rotation="30"
+                android:pivotY="-20">
+                <path
+                    android:pathData="M0 -20V0H20"
+                    android:fillColor="#1EB53A" />
+            </group>
+        </group>
+        <group
+            android:rotation="-60"
+            android:scaleX="-1"
+            android:scaleY="-1">
+            <group
+                android:rotation="30"
+                android:pivotY="-20">
+                <path
+                    android:pathData="M0 -20V0H20"
+                    android:fillColor="#1EB53A" />
+            </group>
+            <group
+                android:rotation="-0"
+                android:scaleX="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#1EB53A" />
+                </group>
+            </group>
+        </group>
+        <group
+            android:rotation="60"
+            android:scaleX="-1"
+            android:scaleY="-1">
+            <group
+                android:rotation="30"
+                android:pivotY="-20">
+                <path
+                    android:pathData="M0 -20V0H20"
+                    android:fillColor="#1EB53A" />
+            </group>
+            <group
+                android:rotation="-0"
+                android:scaleX="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#1EB53A" />
+                </group>
+            </group>
+        </group>
+        <group
+            android:rotation="-0.000000000000007016709"
+            android:scaleX="-1"
+            android:scaleY="-1">
+            <group
+                android:rotation="30"
+                android:pivotY="-20">
+                <path
+                    android:pathData="M0 -20V0H20"
+                    android:fillColor="#1EB53A" />
+            </group>
+            <group
+                android:rotation="-0"
+                android:scaleX="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#1EB53A" />
+                </group>
+            </group>
+            <group
+                android:rotation="-60"
+                android:scaleX="-1"
+                android:scaleY="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#1EB53A" />
+                </group>
+                <group
+                    android:rotation="-0"
+                    android:scaleX="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#1EB53A" />
+                    </group>
+                </group>
+            </group>
+            <group
+                android:rotation="60"
+                android:scaleX="-1"
+                android:scaleY="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#1EB53A" />
+                </group>
+                <group
+                    android:rotation="-0"
+                    android:scaleX="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#1EB53A" />
+                    </group>
+                </group>
+            </group>
+        </group>
+        <group
+            android:scaleX="0.82"
+            android:scaleY="0.82">
+            <group
+                android:rotation="30"
+                android:pivotY="-20">
+                <path
+                    android:pathData="M0 -20V0H20"
+                    android:fillColor="#CE1126" />
+            </group>
+            <group
+                android:rotation="-0"
+                android:scaleX="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#CE1126" />
+                </group>
+            </group>
+            <group
+                android:rotation="-60"
+                android:scaleX="-1"
+                android:scaleY="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#CE1126" />
+                </group>
+                <group
+                    android:rotation="-0"
+                    android:scaleX="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#CE1126" />
+                    </group>
+                </group>
+            </group>
+            <group
+                android:rotation="60"
+                android:scaleX="-1"
+                android:scaleY="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#CE1126" />
+                </group>
+                <group
+                    android:rotation="-0"
+                    android:scaleX="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#CE1126" />
+                    </group>
+                </group>
+            </group>
+            <group
+                android:rotation="-0.000000000000007016709"
+                android:scaleX="-1"
+                android:scaleY="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#CE1126" />
+                </group>
+                <group
+                    android:rotation="-0"
+                    android:scaleX="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#CE1126" />
+                    </group>
+                </group>
+                <group
+                    android:rotation="-60"
+                    android:scaleX="-1"
+                    android:scaleY="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#CE1126" />
+                    </group>
+                    <group
+                        android:rotation="-0"
+                        android:scaleX="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#CE1126" />
+                        </group>
+                    </group>
+                </group>
+                <group
+                    android:rotation="60"
+                    android:scaleX="-1"
+                    android:scaleY="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#CE1126" />
+                    </group>
+                    <group
+                        android:rotation="-0"
+                        android:scaleX="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#CE1126" />
+                        </group>
+                    </group>
+                </group>
+            </group>
+        </group>
+    </group>
+    <group
+        android:rotation="-60"
+        android:scaleX="-1"
+        android:scaleY="-1"
+        android:translateX="504.9038"
+        android:translateY="8.493649">
+        <group
+            android:translateX="250"
+            android:translateY="106">
+            <group
+                android:rotation="30"
+                android:pivotY="-20">
+                <path
+                    android:pathData="M0 -20V0H20"
+                    android:fillColor="#1EB53A" />
+            </group>
+            <group
+                android:rotation="-0"
+                android:scaleX="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#1EB53A" />
+                </group>
+            </group>
+            <group
+                android:rotation="-60"
+                android:scaleX="-1"
+                android:scaleY="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#1EB53A" />
+                </group>
+                <group
+                    android:rotation="-0"
+                    android:scaleX="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#1EB53A" />
+                    </group>
+                </group>
+            </group>
+            <group
+                android:rotation="60"
+                android:scaleX="-1"
+                android:scaleY="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#1EB53A" />
+                </group>
+                <group
+                    android:rotation="-0"
+                    android:scaleX="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#1EB53A" />
+                    </group>
+                </group>
+            </group>
+            <group
+                android:rotation="-0.000000000000007016709"
+                android:scaleX="-1"
+                android:scaleY="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#1EB53A" />
+                </group>
+                <group
+                    android:rotation="-0"
+                    android:scaleX="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#1EB53A" />
+                    </group>
+                </group>
+                <group
+                    android:rotation="-60"
+                    android:scaleX="-1"
+                    android:scaleY="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#1EB53A" />
+                    </group>
+                    <group
+                        android:rotation="-0"
+                        android:scaleX="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#1EB53A" />
+                        </group>
+                    </group>
+                </group>
+                <group
+                    android:rotation="60"
+                    android:scaleX="-1"
+                    android:scaleY="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#1EB53A" />
+                    </group>
+                    <group
+                        android:rotation="-0"
+                        android:scaleX="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#1EB53A" />
+                        </group>
+                    </group>
+                </group>
+            </group>
+            <group
+                android:scaleX="0.82"
+                android:scaleY="0.82">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#CE1126" />
+                </group>
+                <group
+                    android:rotation="-0"
+                    android:scaleX="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#CE1126" />
+                    </group>
+                </group>
+                <group
+                    android:rotation="-60"
+                    android:scaleX="-1"
+                    android:scaleY="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#CE1126" />
+                    </group>
+                    <group
+                        android:rotation="-0"
+                        android:scaleX="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#CE1126" />
+                        </group>
+                    </group>
+                </group>
+                <group
+                    android:rotation="60"
+                    android:scaleX="-1"
+                    android:scaleY="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#CE1126" />
+                    </group>
+                    <group
+                        android:rotation="-0"
+                        android:scaleX="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#CE1126" />
+                        </group>
+                    </group>
+                </group>
+                <group
+                    android:rotation="-0.000000000000007016709"
+                    android:scaleX="-1"
+                    android:scaleY="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#CE1126" />
+                    </group>
+                    <group
+                        android:rotation="-0"
+                        android:scaleX="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#CE1126" />
+                        </group>
+                    </group>
+                    <group
+                        android:rotation="-60"
+                        android:scaleX="-1"
+                        android:scaleY="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#CE1126" />
+                        </group>
+                        <group
+                            android:rotation="-0"
+                            android:scaleX="-1">
+                            <group
+                                android:rotation="30"
+                                android:pivotY="-20">
+                                <path
+                                    android:pathData="M0 -20V0H20"
+                                    android:fillColor="#CE1126" />
+                            </group>
+                        </group>
+                    </group>
+                    <group
+                        android:rotation="60"
+                        android:scaleX="-1"
+                        android:scaleY="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#CE1126" />
+                        </group>
+                        <group
+                            android:rotation="-0"
+                            android:scaleX="-1">
+                            <group
+                                android:rotation="30"
+                                android:pivotY="-20">
+                                <path
+                                    android:pathData="M0 -20V0H20"
+                                    android:fillColor="#CE1126" />
+                            </group>
+                        </group>
+                    </group>
+                </group>
+            </group>
+        </group>
+    </group>
+    <group
+        android:rotation="60"
+        android:scaleX="-1"
+        android:scaleY="-1"
+        android:translateX="245.0962"
+        android:translateY="441.5064">
+        <group
+            android:translateX="250"
+            android:translateY="106">
+            <group
+                android:rotation="30"
+                android:pivotY="-20">
+                <path
+                    android:pathData="M0 -20V0H20"
+                    android:fillColor="#1EB53A" />
+            </group>
+            <group
+                android:rotation="-0"
+                android:scaleX="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#1EB53A" />
+                </group>
+            </group>
+            <group
+                android:rotation="-60"
+                android:scaleX="-1"
+                android:scaleY="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#1EB53A" />
+                </group>
+                <group
+                    android:rotation="-0"
+                    android:scaleX="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#1EB53A" />
+                    </group>
+                </group>
+            </group>
+            <group
+                android:rotation="60"
+                android:scaleX="-1"
+                android:scaleY="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#1EB53A" />
+                </group>
+                <group
+                    android:rotation="-0"
+                    android:scaleX="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#1EB53A" />
+                    </group>
+                </group>
+            </group>
+            <group
+                android:rotation="-0.000000000000007016709"
+                android:scaleX="-1"
+                android:scaleY="-1">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#1EB53A" />
+                </group>
+                <group
+                    android:rotation="-0"
+                    android:scaleX="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#1EB53A" />
+                    </group>
+                </group>
+                <group
+                    android:rotation="-60"
+                    android:scaleX="-1"
+                    android:scaleY="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#1EB53A" />
+                    </group>
+                    <group
+                        android:rotation="-0"
+                        android:scaleX="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#1EB53A" />
+                        </group>
+                    </group>
+                </group>
+                <group
+                    android:rotation="60"
+                    android:scaleX="-1"
+                    android:scaleY="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#1EB53A" />
+                    </group>
+                    <group
+                        android:rotation="-0"
+                        android:scaleX="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#1EB53A" />
+                        </group>
+                    </group>
+                </group>
+            </group>
+            <group
+                android:scaleX="0.82"
+                android:scaleY="0.82">
+                <group
+                    android:rotation="30"
+                    android:pivotY="-20">
+                    <path
+                        android:pathData="M0 -20V0H20"
+                        android:fillColor="#CE1126" />
+                </group>
+                <group
+                    android:rotation="-0"
+                    android:scaleX="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#CE1126" />
+                    </group>
+                </group>
+                <group
+                    android:rotation="-60"
+                    android:scaleX="-1"
+                    android:scaleY="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#CE1126" />
+                    </group>
+                    <group
+                        android:rotation="-0"
+                        android:scaleX="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#CE1126" />
+                        </group>
+                    </group>
+                </group>
+                <group
+                    android:rotation="60"
+                    android:scaleX="-1"
+                    android:scaleY="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#CE1126" />
+                    </group>
+                    <group
+                        android:rotation="-0"
+                        android:scaleX="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#CE1126" />
+                        </group>
+                    </group>
+                </group>
+                <group
+                    android:rotation="-0.000000000000007016709"
+                    android:scaleX="-1"
+                    android:scaleY="-1">
+                    <group
+                        android:rotation="30"
+                        android:pivotY="-20">
+                        <path
+                            android:pathData="M0 -20V0H20"
+                            android:fillColor="#CE1126" />
+                    </group>
+                    <group
+                        android:rotation="-0"
+                        android:scaleX="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#CE1126" />
+                        </group>
+                    </group>
+                    <group
+                        android:rotation="-60"
+                        android:scaleX="-1"
+                        android:scaleY="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#CE1126" />
+                        </group>
+                        <group
+                            android:rotation="-0"
+                            android:scaleX="-1">
+                            <group
+                                android:rotation="30"
+                                android:pivotY="-20">
+                                <path
+                                    android:pathData="M0 -20V0H20"
+                                    android:fillColor="#CE1126" />
+                            </group>
+                        </group>
+                    </group>
+                    <group
+                        android:rotation="60"
+                        android:scaleX="-1"
+                        android:scaleY="-1">
+                        <group
+                            android:rotation="30"
+                            android:pivotY="-20">
+                            <path
+                                android:pathData="M0 -20V0H20"
+                                android:fillColor="#CE1126" />
+                        </group>
+                        <group
+                            android:rotation="-0"
+                            android:scaleX="-1">
+                            <group
+                                android:rotation="30"
+                                android:pivotY="-20">
+                                <path
+                                    android:pathData="M0 -20V0H20"
+                                    android:fillColor="#CE1126" />
+                            </group>
+                        </group>
+                    </group>
+                </group>
+            </group>
+        </group>
+    </group>
+</vector>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="region_europe">Europe</string>
+    <string name="region_asia">Asia</string>
+    <string name="region_north_america">North America</string>
+    <string name="region_south_america">South America</string>
+    <string name="region_africa">Africa</string>
+    <string name="region_oceania">Oceania</string>
+</resources>

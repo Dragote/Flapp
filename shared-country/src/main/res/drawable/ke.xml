@@ -1,0 +1,95 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="240"
+    android:viewportHeight="160"
+    android:width="240dp"
+    android:height="160dp">
+    <group
+        android:translateX="120"
+        android:translateY="80">
+        <path
+            android:pathData="M-120 -80H120V80H-120V-80Z"
+            android:fillColor="#FFFFFF" />
+        <path
+            android:pathData="M-120 -80H120V-32H-120V-80Z"
+            android:fillColor="#000000" />
+        <path
+            android:pathData="M-120 32H120V80H-120V32Z"
+            android:fillColor="#006600" />
+        <group
+            android:rotation="30">
+            <path
+                android:pathData="M-1 55.4256258422040733928782829281879157421699h2V-38C3 -40 3 -43 3 -46C3 -48 3 -56 0 -64.6632301492380856250246634162192350325315C-3 -56 -3 -48 -3 -46C-3 -43 -3 -40 -1 -38z"
+                android:fillColor="#000000"
+                android:strokeColor="#000000"
+                android:strokeWidth="1"
+                android:strokeMiterLimit="10" />
+        </group>
+        <group
+            android:rotation="30">
+            <path
+                android:pathData="M-1 55.4256258422040733928782829281879157421699h2V-38C3 -40 3 -43 3 -46C3 -48 3 -56 0 -64.6632301492380856250246634162192350325315C-3 -56 -3 -48 -3 -46C-3 -43 -3 -40 -1 -38z"
+                android:fillColor="#FFFFFF"
+                android:strokeMiterLimit="10" />
+        </group>
+        <group
+            android:rotation="-0"
+            android:scaleX="-1">
+            <group
+                android:rotation="30">
+                <path
+                    android:pathData="M-1 55.4256258422040733928782829281879157421699h2V-38C3 -40 3 -43 3 -46C3 -48 3 -56 0 -64.6632301492380856250246634162192350325315C-3 -56 -3 -48 -3 -46C-3 -43 -3 -40 -1 -38z"
+                    android:fillColor="#000000"
+                    android:strokeColor="#000000"
+                    android:strokeWidth="1"
+                    android:strokeMiterLimit="10" />
+            </group>
+            <group
+                android:rotation="30">
+                <path
+                    android:pathData="M-1 55.4256258422040733928782829281879157421699h2V-38C3 -40 3 -43 3 -46C3 -48 3 -56 0 -64.6632301492380856250246634162192350325315C-3 -56 -3 -48 -3 -46C-3 -43 -3 -40 -1 -38z"
+                    android:fillColor="#FFFFFF"
+                    android:strokeMiterLimit="10" />
+            </group>
+        </group>
+        <path
+            android:pathData="M-120 -24V24H-19c3 8 13 24 19 24s16 -16 19 -24H120V-24H19c-3 -8 -13 -24 -19 -24s-16 16 -19 24z"
+            android:fillColor="#BB0000" />
+        <path
+            android:pathData="M19 24c3 -8 5 -16 5 -24s-2 -16 -5 -24c-3 8 -5 16 -5 24s2 16 5 24"
+            android:fillColor="#000000" />
+        <group
+            android:rotation="-0"
+            android:scaleX="-1">
+            <path
+                android:pathData="M19 24c3 -8 5 -16 5 -24s-2 -16 -5 -24c-3 8 -5 16 -5 24s2 16 5 24"
+                android:fillColor="#000000" />
+        </group>
+        <path
+            android:pathData="M4 0A4 6 0 0 1 -4 0A4 6 0 0 1 4 0Z"
+            android:fillColor="#FFFFFF" />
+        <path
+            android:pathData="M1 5.85c0 0 4 8 4 21s-4 21 -4 21z"
+            android:fillColor="#FFFFFF" />
+        <group
+            android:rotation="-0"
+            android:scaleX="-1"
+            android:scaleY="-1">
+            <path
+                android:pathData="M1 5.85c0 0 4 8 4 21s-4 21 -4 21z"
+                android:fillColor="#FFFFFF" />
+        </group>
+        <group
+            android:rotation="-0"
+            android:scaleX="-1">
+            <path
+                android:pathData="M1 5.85c0 0 4 8 4 21s-4 21 -4 21z"
+                android:fillColor="#FFFFFF" />
+        </group>
+        <group
+            android:scaleY="-1">
+            <path
+                android:pathData="M1 5.85c0 0 4 8 4 21s-4 21 -4 21z"
+                android:fillColor="#FFFFFF" />
+        </group>
+    </group>
+</vector>
