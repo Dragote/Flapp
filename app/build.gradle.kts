@@ -77,7 +77,6 @@ dependencies {
     coil()
     room()
     hilt()
-    testUtils()
 
     //Modules
     implementation(project(":feature-progress"))
