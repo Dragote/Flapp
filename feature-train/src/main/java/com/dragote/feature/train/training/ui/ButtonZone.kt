@@ -21,6 +21,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.shadow
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.dragote.feature.train.R
 import com.dragote.shared.ui.IsDarkTheme
@@ -112,7 +113,10 @@ fun AnswerButton(
         enabled = enabled,
         colors = ButtonDefaults.buttonColors(containerColor = buttonColor)
     ) {
-        Text(text = answer)
+        Text(
+            text = answer,
+            textAlign = TextAlign.Center,
+        )
     }
 }
 
