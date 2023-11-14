@@ -41,7 +41,6 @@ fun CountryProgressCard(
     var flagExpanded by rememberSaveable { mutableStateOf(false) }
     val bringIntoViewRequester = remember { BringIntoViewRequester() }
     val coroutineScope = rememberCoroutineScope()
-    val painter = rememberAsyncImagePainter(country.drawableRes)
 
     Card(
         modifier = modifier
@@ -73,7 +72,7 @@ fun CountryProgressCard(
                         .width(80.dp)
                         .height(80.dp),
                     contentScale = ContentScale.Fit,
-                    painter = painter,
+                    painter = rememberAsyncImagePainter(country.drawableRes),
                     contentDescription = null,
                 )
             }
@@ -94,7 +93,7 @@ fun CountryProgressCard(
                     .height(200.dp)
                     .padding(16.dp),
                 contentScale = ContentScale.Fit,
-                painter = painter,
+                painter = rememberAsyncImagePainter(country.drawableRes),
                 contentDescription = null,
             )
         }
